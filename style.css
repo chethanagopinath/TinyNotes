@@ -1,0 +1,28 @@
+h3 {
+  margin: 0;
+}
+
+h4 {
+  margin: 5px;
+}
+
+
+#tiny-note-tiles {
+  margin-left: -38px;
+  list-style-type: none;
+}
+
+.tiny-note-tile{
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid;
+}
+
+.tiny-note-tile-form-group label{
+  display: block;
+  margin-bottom: 5px;
+}
+
+.tiny-note-tile-form-group{
+  margin-top: 10px
+}
